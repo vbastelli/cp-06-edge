@@ -54,9 +54,5 @@ Estrutura de Arquivos
 ├── esp32/
 │   └── esp32_sensor_code.ino  # Código para o ESP32
 ├── README.md
-└── imagens/
-   └── dashboard.png       # Imagem do dashboard (adicione sua captura aqui)
-Captura de Tela do Dashboard
-Adicione uma captura de tela do seu dashboard após a execução:
-Licença
-Este projeto é licenciado sob a licença MIT.
+
+![image](https://github.com/user-attachments/assets/34401c12-1302-4897-b1f3-8a98bc3a82c5)
