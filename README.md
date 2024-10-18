@@ -63,8 +63,8 @@ Estrutura de Arquivos
 
 ## Integrantes:
 
-Enzo Almeida
-Gabriel Mello
-Guilherme Moreira
-Lucca Campello
-Victório Bastelli
+- Enzo Almeida
+- Gabriel Mello
+- Guilherme Moreira
+- Lucca Campello
+- Victório Bastelli
