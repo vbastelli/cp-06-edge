@@ -68,8 +68,8 @@ Estrutura de Arquivos
 
 ## Integrantes:
 
-- Enzo Almeida
-- Gabriel Mello
-- Guilherme Moreira
-- Lucca Campello
-- Victório Bastelli
+- Enzo Almeida      | RM: 556900
+- Gabriel Mello     | RM: 554421
+- Guilherme Moreira | RM: 557290
+- Lucca Campello    | RM: 558455
+- Victório Bastelli | RM: 554723
