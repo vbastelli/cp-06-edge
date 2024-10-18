@@ -68,3 +68,8 @@ Estrutura de Arquivos
 - Guilherme Moreira
 - Lucca Campello
 - Victório Bastelli
+
+
+## Montagem:
+![Image](https://github.com/user-attachments/assets/1e29f92c-3da7-41e4-b2fa-dcffa69d8cd5)
+
