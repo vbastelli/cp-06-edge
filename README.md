@@ -59,3 +59,12 @@ Estrutura de Arquivos
 ## Imagem do dashboard:
 
 ![image](https://github.com/user-attachments/assets/34401c12-1302-4897-b1f3-8a98bc3a82c5)
+
+
+## Integrantes:
+
+Enzo Almeida
+Gabriel Mello
+Guilherme Moreira
+Lucca Campello
+Victório Bastelli
