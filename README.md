@@ -61,6 +61,11 @@ Estrutura de Arquivos
 ![image](https://github.com/user-attachments/assets/34401c12-1302-4897-b1f3-8a98bc3a82c5)
 
 
+
+## Montagem:
+![Image](https://github.com/user-attachments/assets/1e29f92c-3da7-41e4-b2fa-dcffa69d8cd5)
+
+
 ## Integrantes:
 
 - Enzo Almeida
@@ -68,8 +73,3 @@ Estrutura de Arquivos
 - Guilherme Moreira
 - Lucca Campello
 - Victório Bastelli
-
-
-## Montagem:
-![Image](https://github.com/user-attachments/assets/1e29f92c-3da7-41e4-b2fa-dcffa69d8cd5)
-
